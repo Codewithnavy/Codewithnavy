@@ -1,7 +1,7 @@
 ### THIS SIDE NAVNEET MISHRA 
 MAJORS IN COMPUTER SCIENCE
 BTECH UNDERGRADUATE STUDENT
-CURENTLY DOING AR/XR AND GAME DEVELOPMENTR!
+CURENTLY DOING AR/XR AND GAME DEVELOPMENT !
 
 <!--
 **Codewithnavy/Codewithnavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
