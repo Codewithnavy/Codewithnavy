@@ -1,4 +1,4 @@
-[![Masterhead](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)]
+![Masterhead](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)
 
 <h1 align="center">Hi 👋 I'm Navneet Mishra! </h1>
 <h3 align="center">A passionate developer from India 📌 </h3>
